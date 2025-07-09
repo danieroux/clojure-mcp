@@ -51,3 +51,5 @@ NOTES.md
 *.tmp
 /.idea/
 /clojure-mcp.iml
+
+.direnv
